@@ -1,2 +1,2 @@
-# Ngf-python-day1
-Learning python to gain skills.
+# ngf-python-day1 
+"improve greeting and add context"
